@@ -4,11 +4,11 @@
 
 奖励机制大纲
 
-- 翻译提案内容/重要信息 - 礼品 / 1-3 DCR
-- 翻译重要文章/月报/博客/新闻 - 礼品 / 2-10 DCR 
+- 翻译提案内容/重要信息 - 礼品 / $25-75 美元等值 DCR
+- 翻译重要文章/月报/博客/新闻 - 礼品 / $50-250 美元等值 DCR 
 - 翻译内容必须上传Github社区可随意转载
 
-- 原创内容 礼品 / 2-10 DCR 
+- 原创内容 礼品 / $50-250 美元等值 DCR 
 - 原创内容 根据 阅读量，转发量，发布于主流媒体网站 等条件奖励。
 
 奖励基金暂时由 Guang 设立个钱包掌管，公布 Extended Public Key 大家都可以加入到 view only 监督。
@@ -28,7 +28,8 @@ DsZ8LZuhXw67CDB5LRwdgz74VsK5C5fWjeR
 dpubZG7mha6erJ4CfsWCbL3VvcRV9nncm7AVKyMBMXeophFbL8bVFRyUUviGxxuidwEmRFUo5LNHyjymCfb9RBAjUzTQZxCGDodswVcb9PfJrYr
 
 ### 贡献榜 (按字母排序)
-1. Guang - 15 DCR 
+1. Hugo - 15 DCR
+2. Guang - 15 DCR
 
 ### 已获奖励文章
 1. 
