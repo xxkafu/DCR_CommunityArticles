@@ -1,5 +1,9 @@
-## RFP: Decred 去中心化交易设施（DEX）
+## RFP:Decred_Decentralized_Exchange_Infrastructure_CN
 
+原始提案链接：[Decred Decentralized Exchange Infrastructure](https://proposals.decred.org/proposals/5431da8ff4eda8cdbf8f4f2e08566ffa573464b97ef6d6bae78e749f27800d3a)  
+该提案参与投票的票数为15667票，参与率约为38.2%; 赞成票为14411票，反对票为1256票，赞成率为91.98%     
+详细情况如下图所示：     
+![投票结果](https://github.com/xxkafu/DCR_CommunityArticles/blob/master/Image.png)
 
 ### **摘要**
 现有的加密货币交换系统分为4个部分：托管（用户需要把币存在交易所），提供的服务（撮合等），token（交易平台上的token资产）和coin（交易平台上的coin资产）。该提案描述了一种基于开源软件的新型去中心化加密货币交换方式，它允许用户之间直接进行跨链交易，不仅收费低而且技术架构简单。系统内的订单将在每个epoch时间内随机匹配。用户需要支付费用，以阻止恶意的用户。客户端将与服务器和加密货币钱包进行通信，因此他们可以在相应的区块链上传递订单数据并创建原子交换，监控和运行兑换脚本。这项服务没有中心化实体，只是将需要的交易对在客户端之间进行传递。
