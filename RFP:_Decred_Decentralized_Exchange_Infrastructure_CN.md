@@ -1,7 +1,7 @@
 ## RFP:Decred_Decentralized_Exchange_Infrastructure_CN
 
 原始提案链接：[Decred Decentralized Exchange Infrastructure](https://proposals.decred.org/proposals/5431da8ff4eda8cdbf8f4f2e08566ffa573464b97ef6d6bae78e749f27800d3a)  
-该提案参与投票的票数为15667票，参与率约为38.2%; 赞成票为14411票，反对票为1256票，赞成率为91.98%     
+该提案参与投票的票数为15667票，参与率约为38.2%; 赞成票为14411票，反对票为1256票，赞成率为91.98%;参与率和赞成率满足要求，该提案获得通过           
 详细情况如下图所示：     
 ![投票结果](https://github.com/xxkafu/DCR_CommunityArticles/blob/master/Image.png)
 
